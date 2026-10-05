@@ -6,28 +6,6 @@ Contents:
   2. A4_Individual_Reflection_Mishal.docx          (unchanged - already compliant)
   3. A4_Individual_Reflection_Savnit_Prasad.docx   (unchanged - already compliant)
 
-WHAT WAS FIXED IN THE REPORT
-----------------------------
-1. Word count ~1,480 including Tables 1 & 2 (~1,300 prose-only) - safely
-   under the 1,500 limit under any counting method. Table 1's redundant
-   "Comparison test" column removed (all t/F/p statistics remain in the
-   text and in Appendices A-B).
-2. "30 retailer sustainability practices" corrected to 25 (verified against
-   the dataset and Lab 7 formulas).
-3. Client Brief moved BEFORE the Executive Summary (instruction says
-   "ideally before"), matching the exemplar reports.
-4. Table of Contents REMOVED entirely - it is not required by the assignment
-   instructions, the template, or the exemplar reports (only the penalised
-   Example 2 had one). This also removes the stale-page-number problem;
-   the report is now 13 pages.
-5. References: APA italics added (journal names + volumes), issue numbers
-   and DOIs added (all 9 DOIs verified against Crossref).
-6. In-text citations converted to APA 7 "et al." style.
-7. Title page now shows both full names and student IDs:
-   Mishal Joytishna Charan (26013944) & Savnit Prasad (26019118).
-8. "retail brands" -> "retailers" wording fix (Ecostore is a product
-   brand, not a retailer).
-9. Source attribution lines added under Figures 1 and 2.
 
 VERIFY BEFORE YOU SUBMIT (1 minute)
 ------------------------------------
@@ -51,6 +29,4 @@ SUBMISSION CHECKLIST (from the course Stream site)
 [ ] Due: Monday 19 October 2026, 11:00 PM (late-penalty waiver through
     Tuesday 27 October 2026; after that, penalties back-dated to 19 Oct)
 
-NOTE: The two individual reflection files are UNCHANGED from your
-originals - they were verified as fully compliant (template structure
-preserved exactly, 378 and 407 words, consistent mutual 100% ratings).
+
